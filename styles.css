@@ -1,0 +1,51 @@
+ody {
+    margin: 0;
+    font-size: 16px;
+    font-family: Helvetica;
+    background-color: #ffffff;
+  }
+  
+  main {
+    width: 80%;
+    background-color: #dfdbdb;
+    margin: 1.5em auto;
+    padding: 1.5em 1.5em;
+    border-radius: 10px;
+  }
+  
+  header {
+    text-align: center;
+    font-size: 2vw;
+  }
+  
+  h1, p {
+    margin: 0;
+  }
+  
+  p {
+    padding-top: 0.5em;
+  }
+  
+  img {
+    width: 60%;
+    display: block;
+    margin: 0.5em auto;
+    object-fit: cover;
+    max-width: 300px;
+    border-radius: 20px;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-size: 1.5vw;
+  }
+  
+  #tribute-info {
+    font-size: 1.5vw;
+    text-align: center;
+  }
